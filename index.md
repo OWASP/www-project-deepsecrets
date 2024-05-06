@@ -21,7 +21,7 @@ DeepSecrets also introduces a new way to find secrets: just use hashed values of
 
 # How it Works
 
-Under the hood story is in articles here: https://hackernoon.com/modernizing-secrets-scanning-part-1-the-problem
+Under the hood story is in articles here: [https://hackernoon.com/modernizing-secrets-scanning-part-1-the-problem](https://hackernoon.com/modernizing-secrets-scanning-part-1-the-problem)
 
 # FAQ
 
