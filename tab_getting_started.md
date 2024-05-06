@@ -3,7 +3,7 @@ title: Getting Started
 layout:  null
 tab: true
 order: 1
-tags: installation scanning getting started
+tags: deepsecrets
 ---
 
 # Getting Started
