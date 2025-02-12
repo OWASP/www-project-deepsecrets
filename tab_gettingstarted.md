@@ -3,7 +3,7 @@ title: gettingstarted
 layout: null
 tab: true
 order: 2
-tags: cc
+tags: deepsecrets
 ---
 
 
