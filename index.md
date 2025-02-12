@@ -5,6 +5,7 @@ title: OWASP DeepSecrets
 tags: OWASP Secrets Secret Scanning Scanner Detection Detector Tool Code Analysis Analyzer Vulnerability Credential SAST Static Scanner Token Password Secret
 level: 3.5
 type: tool
+project: true
 pitch: Secrets scanner that understands code
 
 ---
