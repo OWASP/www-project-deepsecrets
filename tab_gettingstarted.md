@@ -1,10 +1,12 @@
 ---
 title: Getting Started
+displaytext: Getting Started
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: deepsecrets
 ---
+
 
 # Getting Started
 ## Installation
