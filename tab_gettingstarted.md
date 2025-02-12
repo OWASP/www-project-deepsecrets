@@ -1,10 +1,10 @@
 ---
-title: GettingStarted
+title: getting_started
 displaytext: Getting Started
 layout: null
 tab: true
-order: 1
-tags: deepsecrets
+order: 2
+tags: cc
 ---
 
 
