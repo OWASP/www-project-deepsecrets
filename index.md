@@ -10,6 +10,7 @@ pitch: Secrets scanner that understands code
 tags: deepsecrets
 
 ---
+<meta name="google-site-verification" content="CeFH-5KRz5CtcV2-KQVhTjK7ir5n5HbcbtBlLQwiO-M" >
 
 # Introduction
 ## OWASP DeepSecrets - a better tool for secret scanning
