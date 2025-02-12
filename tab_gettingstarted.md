@@ -1,5 +1,6 @@
 ---
 title: gettingstarted
+displaytext: Getting Started
 layout: null
 tab: true
 order: 2
