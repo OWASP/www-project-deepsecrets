@@ -7,6 +7,7 @@ level: 3.5
 type: tool
 project: true
 pitch: Secrets scanner that understands code
+tags: deepsecrets
 
 ---
 
