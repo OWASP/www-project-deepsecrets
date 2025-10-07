@@ -1,0 +1,25 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Nikolai Khechumov
+    email: nikolai.khechumov@owasp.org
+    github: ntoskernel
+level: 3.5
+license:
+  - MIT
+name: OWASP DeepSecrets
+pitch: Secrets scanner that understands code
+repositories:
+  - name: www-project-deepsecrets
+    url: https://github.com/OWASP/www-project-deepsecrets
+    description: OWASP Foundation Web Repository
+  - name: deepsecrets
+    url: https://github.com/ntoskernel/deepsecrets
+    description: Secrets scanner that understands code
+tags:
+  - deepsecrets
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-deepsecrets
